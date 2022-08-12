@@ -1,6 +1,6 @@
 # nestjs-microservices
 
-Um template para criação de microserviços
+Um template para criação de microserviços.
 
 * build
 
